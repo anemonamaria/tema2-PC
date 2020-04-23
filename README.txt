@@ -1,3 +1,5 @@
+BATTLESHIP GAME
+
 
 Funtia de Destroy in advance poate fi folosita prin apasarea tastelor 'e' sau 'E', iar cea de Randomize map prin tastarea 'R' sau 'r'.
 
